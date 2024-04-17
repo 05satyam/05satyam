@@ -3,7 +3,7 @@
 - ### Must visit: https://www.tugposts.com
 - 📫 **Connect with me:**
      - ➡️ Linkedin: https://www.linkedin.com/in/satyam-sm
-     - ➡️ Portfolio: www.satyammittal.com
+     - ➡️ Portfolio: https://05satyam.github.io/
        
 <!--
 **05satyam/05satyam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

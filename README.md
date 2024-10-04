@@ -1,6 +1,6 @@
 # Hi there I'm Satyam!👋 
 ### I belive in "programming is thinking not typing" !!
-
+- Visit: (MarshellingAI)[https://github.com/05satyam/MarshallingAI/wiki]
 - 📫 **Connect with me:**
      - ➡️ Linkedin: https://www.linkedin.com/in/satyam-sm
      - ➡️ Portfolio: https://05satyam.github.io/
@@ -14,7 +14,7 @@
 - **Designed** a new meta-heuristics algorithm for complex optimization problems
     - **Thesis Topic** : Blindfolded Spider-Man Optimization: A Single-point Metaheuristic  Suitable for Continuous and Discrete Spaces
     - LINK: https://www.proquest.com/docview/2901409934
- 
+
 - Always looking to collaborate on Software Design projects(solution architecting), Machine Learning 
  algorithm optimizations, Deep Learning Neural Nets projects ;
   

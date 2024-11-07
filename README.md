@@ -1,7 +1,7 @@
 # Hi there I'm Satyam!👋 
 ### I belive in "programming is thinking not typing" !!
 
-## [MarshellingAI](https://github.com/05satyam/MarshallingAI/wiki) - A central repository for collection of AI-ML resources
+## ⚡ [MarshellingAI](https://github.com/05satyam/MarshallingAI/wiki) - A central repository for collection of AI-ML resources
   
 - 📫 **Connect with me:**
      - ➡️ Linkedin: https://www.linkedin.com/in/satyam-sm

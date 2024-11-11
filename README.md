@@ -1,7 +1,7 @@
 # Hi there I'm Satyam!👋 
 ### I belive in "programming is thinking not typing" !!
 
-## ⚡ [AI-ML-Resource]((https://github.com/05satyam/AI-ML/blob/main/README.md) - A central repository for collection of AI-ML resources
+## ⚡ [AI-ML-Resource](https://github.com/05satyam/AI-ML/blob/main/README.md) - A central repository for collection of AI-ML resources
   
 - 📫 **Connect with me:**
      - ➡️ Linkedin: https://www.linkedin.com/in/satyam-sm

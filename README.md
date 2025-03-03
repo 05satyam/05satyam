@@ -11,7 +11,7 @@
 **05satyam/05satyam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- Currently working as Senior AI Engineer, Toyota Motors North America via Ascentt(full time)
+- Currently working as AI Software Engineer, @Chewy
   
 - **Thesis Topic** : Blindfolded Spider-Man Optimization: A Single-point Metaheuristic  Suitable for Continuous and Discrete Spaces
   - LINK: https://www.proquest.com/docview/2901409934

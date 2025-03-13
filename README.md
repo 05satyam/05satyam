@@ -7,10 +7,11 @@
 <p align="center"><em>"Programming is thinking, not typing."</em></p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/satyam-sm">
+  <!-- Notice the raw HTML anchor tags with target="_blank" -->
+  <a href="https://www.linkedin.com/in/satyam-sm" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Satyam--sm-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://05satyam.github.io">
+  <a href="https://05satyam.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-05satyam.github.io-orange?style=for-the-badge&logo=firefox-browser" alt="Portfolio Badge"/>
   </a>
 </p>
@@ -20,14 +21,16 @@
 ## 👨‍💻 About Me 
 - 🔭 I’m currently working as an **AI Software Engineer @Chewy**  
 - 📚 **Research Thesis**: Blindfolded Spider-Man Optimization — A single-point metaheuristic for continuous & discrete spaces  
-  - [View Thesis on ProQuest](https://www.proquest.com/docview/2901409934)
+  - <a href="https://www.proquest.com/docview/2901409934" target="_blank">View Thesis on ProQuest</a>
 - 💡 Always exploring the intersections of **AI**, **ML**, **Deep Learning**, and **LLMs**  
 - 🤝 Open to collaborating on exciting AI projects—feel free to reach out!
 
 <br/>
 
 ## 🌟 Featured Repository
-[![AI-ML Resource Repo](https://img.shields.io/badge/Explore_AI--ML_Repo-Click_Here-orange?style=for-the-badge&logo=github)](https://github.com/05satyam/AI-ML)
+<a href="https://github.com/05satyam/AI-ML" target="_blank">
+  <img src="https://img.shields.io/badge/Explore_AI--ML_Repo-Click_Here-orange?style=for-the-badge&logo=github" alt="AI-ML Resource Repo"/>
+</a>
 
 - **Central Hub** of tutorials, cookbooks, and best practices for AI & ML  
 - Covers **RAG**, **Agentic AI**, **Fine-tuning**, and more  
@@ -37,7 +40,8 @@
 <br/>
 
 ## 🎉 Fun Facts
-- I have a public reading Insta page: [@social_sharing](https://instagram.com/social_sharing)  
+- I have a public reading Insta page: 
+  <a href="https://instagram.com/social_sharing" target="_blank">@social_sharing</a>  
 - My favorite sitcom is **The Big Bang Theory**  
 - *Yes, One Piece truly exists!*  
 

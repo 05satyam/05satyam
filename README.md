@@ -30,7 +30,9 @@
 ## 🌟 Featured Repository
 <a href="https://github.com/05satyam/AI-ML" target="_blank">
   <img src="https://img.shields.io/badge/Explore_AI--ML_Repo-Click_Here-orange?style=for-the-badge&logo=github" alt="AI-ML Resource Repo"/>
-</a>
+</a>  <a href="https://deepwiki.com/05satyam/AI-ML"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
+
+
 
 - **Central Hub** of tutorials, cookbooks, and best practices for AI & ML  
 - Covers **RAG**, **Agentic AI**, **Fine-tuning**, and more  

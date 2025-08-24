@@ -15,11 +15,9 @@
   <a href="https://github.com/05satyam/AI-ML" target="_blank">
     <img src="https://img.shields.io/badge/AI--ML_Resource_Repository-Click_Here-red?style=for-the-badge&logo=github" alt="AI-ML Resource Repo"/>
   </a>  
+  <br />
   <a href="https://deepwiki.com/05satyam/AI-ML" target="_blank"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
-  
-  <a href="https://05satyam.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-05satyam.github.io-orange?style=for-the-badge&logo=firefox-browser" alt="Portfolio Badge"/>
-  </a>
+
 </p>
 
 <br/>

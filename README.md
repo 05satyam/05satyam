@@ -23,11 +23,11 @@
 <br/>
 
 ## 👨‍💻 About Me 
-- 🔭 I’m currently working as an **AI Software Engineer @Chewy**  
-- 📚 **Research Thesis**: Blindfolded Spider-Man Optimization — A single-point metaheuristic for continuous & discrete spaces  
+- I’m currently working as an **AI Software Engineer @Chewy**  
+- **Research Thesis**: Blindfolded Spider-Man Optimization — A single-point metaheuristic for continuous & discrete spaces  
   - <a href="https://arxiv.org/abs/2505.17069" target="_blank">View Thesis on @arxiv </a>
-- 💡 Always exploring the intersections of **AI**, **ML**, **Deep Learning**, and **LLMs**  
-- 🤝 Open to collaborating on exciting AI projects—feel free to reach out!
+- Always exploring the intersections of **AI**, **ML**, **Deep Learning**, and **LLMs**  
+- Open to collaborating on exciting AI projects—feel free to reach out!
 
 <br/>
 

@@ -36,8 +36,6 @@
   <img src="https://img.shields.io/badge/AI--ML_Resource_Repository-Click_Here-red?style=for-the-badge&logo=github" alt="AI-ML Resource Repo"/>
 </a>
 
-
-
 - **Central Hub** of tutorials, cookbooks, and best practices for AI & ML  
 - Covers **RAG**, **Agentic AI**, **Fine-tuning**, and more  
 - Hands-on **Jupyter Notebooks** for end-to-end learning experiences  
@@ -45,9 +43,21 @@
 
 <br/>
 
+## Featured Package — Non-Convex Optimization Library
+
+[![PyPI Downloads](https://static.pepy.tech/personalized-badge/nonconvexoptimzationfunclib?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/nonconvexoptimzationfunclib)
+[![View Dashboard](https://img.shields.io/badge/View_Live_Dashboard-000000?style=for-the-badge&logo=databricks)](
+https://clickhouse-analytics.metabaseapp.com/public/dashboard/8d516106-3a9f-4674-aafc-aa39d6380ee2?project_name=nonconvexoptimzationfunclib#&theme=night
+)
+
+A Python package providing **standard non-convex benchmark functions** for testing and benchmarking optimization algorithms.
+
+```bash
+pip install nonconvexoptimzationfunclib
+```
+---
+
 ## 🎉 Fun Facts
-- I have a public reading Insta page: 
-  <a href="https://instagram.com/social_sharing" target="_blank">@social_sharing</a>  
 - My favorite sitcom is **The Big Bang Theory**  
 - *Yes, One Piece truly exists!*  
 

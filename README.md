@@ -1,72 +1,85 @@
-<!-- Your GitHub Profile README -->
-
 <h1 align="center">
   Hi there, I'm Satyam! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
-<p align="center"><em>"Programming is thinking, not typing."</em></p>
+<p align="center"><em>"Programming is thinking, not typing!"</em></p>
 
 <p align="center">
-  <!-- Notice the raw HTML anchor tags with target="_blank" -->
   <a href="https://www.linkedin.com/in/satyam-sm" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Satyam--sm-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Satyam--sm-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-
   <a href="https://github.com/05satyam/AI-ML" target="_blank">
-    <img src="https://img.shields.io/badge/AI--ML_Resource_Repository-Click_Here-red?style=for-the-badge&logo=github" alt="AI-ML Resource Repo"/>
-  </a>  
-  <br />
-  <a href="https://deepwiki.com/05satyam/AI-ML" target="_blank"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
-
+    <img src="https://img.shields.io/badge/AI--ML_Resource_Repository-Click_Here-red?style=for-the-badge&logo=github"/>
+  </a>
+  <br/>
+  <a href="https://deepwiki.com/05satyam/AI-ML" target="_blank">
+    <img src="https://deepwiki.com/badge.svg"/>
+  </a>
 </p>
 
-<br/>
+---
 
-## 👨‍💻 About Me 
-- I’m currently working as an **AI Software Engineer @Chewy**  
-- **Research Thesis**: Blindfolded Spider-Man Optimization — A single-point metaheuristic for continuous & discrete spaces  
-  - <a href="https://arxiv.org/abs/2505.17069" target="_blank">View Thesis on @arxiv </a>
-- Always exploring the intersections of **AI**, **ML**, **Deep Learning**, and **LLMs**  
-- Open to collaborating on exciting AI projects—feel free to reach out!
+## 👨‍💻 About Me
+- AI Software Engineer **@ Chewy** and a Research Volunteer at **[AGAI group—Carnegie Mellon](https://www.cmu.edu/ini/agai/)** 
+- Research Thesis: **Blindfolded Spider-Man Optimization**  
+  *A single-point metaheuristic for continuous & discrete spaces* — **[Arxiv](https://arxiv.org/abs/2505.17069)**
+- Working at the intersection of **AI / ML / LLMs / Optimization**
+- Focused on building **production-grade scalable AI systems**
+- Open to collaborating on impactful AI projects
 
-<br/>
+---
+
+## 🛠️ Tech Stack
+- **Research**: Optimization Algorithms, Metaheuristics, Language Models Hallucination Detection and Mitigations, Security in Language Model based Systems.
+- **Languages**: Python, Java, C++
+- **AI / ML**: PyTorch, Deep Learning, Neural Netwroks,  , LangChain, LlamaIndex, 
+- **GenAI**: RAG, Agentic AI, Graph RAG, MCP, AI-Memory, System Design, GenAI—Evaluations
+- **Others**: AWS, MLOps, AIOps
+
+---
 
 ## 🌟 Featured Repository
-<a href="https://github.com/05satyam/AI-ML" target="_blank">
-  <img src="https://img.shields.io/badge/AI--ML_Resource_Repository-Click_Here-red?style=for-the-badge&logo=github" alt="AI-ML Resource Repo"/>
-</a>
+<p align="center">
+  <a href="https://github.com/05satyam/AI-ML" target="_blank">
+    <img src="https://img.shields.io/badge/AI--ML_Resource_Repository-Click_Here-red?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
-- **Central Hub** of tutorials, cookbooks, and best practices for AI & ML  
-- Covers **RAG**, **Agentic AI**, **Fine-tuning**, and more  
-- Hands-on **Jupyter Notebooks** for end-to-end learning experiences  
-- External resources, curated links, and community references  
+- Central hub for **AI & ML tutorials, cookbooks, and best practices**
+- Covers **RAG**, **Agentic AI**, **Fine-tuning**, and real-world GenAI systems
+- Hands-on **Jupyter notebooks** with end-to-end examples
+- Curated external resources and community references
 
-<br/>
+---
 
-## PyPI Library — Non-Convex Optimization Benchmark Functions
+## 📦 PyPI Packages
 
-[![PyPI Downloads](https://static.pepy.tech/personalized-badge/nonconvexoptimzationfunclib?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/nonconvexoptimzationfunclib)
-[![View Live Dashboard](https://img.shields.io/badge/View_Live_Dashboard-000000?style=for-the-badge&logo=databricks)](
-https://clickhouse-analytics.metabaseapp.com/public/dashboard/8d516106-3a9f-4674-aafc-aa39d6380ee2?project_name=nonconvexoptimzationfunclib#&theme=night
-)
-
-A Python package providing **standard non-convex benchmark functions** for testing and benchmarking optimization algorithms.
-
-```bash
-pip install nonconvexoptimzationfunclib
+### InstructVault
+- PyPI: https://pypi.org/project/instructvault/ [![PyPI Downloads](https://static.pepy.tech/personalized-badge/instructvault?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/instructvault)  
+- GitHub: https://github.com/05satyam/instruct_vault
+```python
+pip install instructvault
 ```
 ---
 
-## 🎉 Fun Facts
-- My favorite sitcom is **The Big Bang Theory**  
-- *Yes, One Piece truly exists!*  
+### Non-Convex Optimization Benchmark Functions
+- PyPI: https://pypi.org/project/nonconvexoptimzationfunclib/ [![PyPI Downloads](https://static.pepy.tech/personalized-badge/nonconvexoptimzationfunclib?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/nonconvexoptimzationfunclib)
+- GitHub: https://github.com/05satyam/nonconvexoptimizationfunclib
 
-<br/>
+A Python library of **standard non-convex benchmark functions** for evaluating and comparing optimization algorithms.
+
+```python
+pip install nonconvexoptimzationfunclib
+```
+
+---
+
+## 🎉 Fun Facts
+- My favorite sitcom is **The Big Bang Theory** 🧠
+- *Yes, One Piece truly exists!* ☠️🏴‍☠️
 
 ---
 
 <p align="center">
-  <strong>⭐ If you find my projects helpful, please consider giving a star to the repositories!</strong>
+  <strong>⭐ If you find my work useful, consider starring the repositories!</strong>
 </p>
-
----
